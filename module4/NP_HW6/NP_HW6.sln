@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NP_HW6", "NP_HW6.csproj", "{5EE677CF-7A78-4D4A-A879-BF0BF6571C66}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChatConsole", "..\ChatConsole\ChatConsole.csproj", "{D581FF69-0122-4A8A-9B07-B8B99805B852}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5EE677CF-7A78-4D4A-A879-BF0BF6571C66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EE677CF-7A78-4D4A-A879-BF0BF6571C66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EE677CF-7A78-4D4A-A879-BF0BF6571C66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EE677CF-7A78-4D4A-A879-BF0BF6571C66}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D581FF69-0122-4A8A-9B07-B8B99805B852}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D581FF69-0122-4A8A-9B07-B8B99805B852}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D581FF69-0122-4A8A-9B07-B8B99805B852}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D581FF69-0122-4A8A-9B07-B8B99805B852}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {39CC850D-A916-46AF-90F0-7C67A590F117}
+	EndGlobalSection
+EndGlobal
